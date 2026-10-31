@@ -1,0 +1,8 @@
+name,room,weight,category,fragile
+Books,Bedroom,3.0,General,False
+Clothes,Bedroom,2.0,General,False
+Charger,Bedroom,0.2,Electronics,False
+Shampoo,Bathroom,0.5,Liquid,False
+Glass cup,Kitchen,0.3,General,True
+Large vase,Living room,3.5,General,True
+Desk,Study,8.0,General,False
